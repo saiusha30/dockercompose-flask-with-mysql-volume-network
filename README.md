@@ -32,7 +32,7 @@ docker compose
 1. Clone the project:
 
 ```bash
-git clone https://github.com/saiusha30/flask-mysql-docker-network-volume.git
+https://github.com/saiusha30/dockercompose-flask-with-mysql-volume-network.git
 cd my-dockercompose-project
 
 2. Create all required files mentioned in the project folder structure
