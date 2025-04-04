@@ -22,8 +22,8 @@ my-dockercompose-project/
     └── Dockerfile
 ## pre installed
 
-docker
-git
+docker,
+git,
 docker compose
 
 
@@ -36,12 +36,12 @@ git clone https://github.com/saiusha30/flask-mysql-docker-network-volume.git
 cd my-dockercompose-project
 
 2. Create all required files mentioned in the project folder structure
-
-3.Build and run the containers
+3. Edit .env and fill in your own values.(here not providing any .env template)
+4. Build and run the containers
 
 docker-compose up --build
 
-4.Open the app in your browser
+5.Open the app in your browser
 
 with public-ip address with 5000(portnumber)
 
